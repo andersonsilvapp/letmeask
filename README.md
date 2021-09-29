@@ -8,8 +8,9 @@
 
 # Sobre 🚀
 **Letmeask** é um
-projeto desenvolvido na NLW, evento da maior e melhor escola de programação do Brasil.
-[**Rocketseat**](https://app.rocketseat.com.br/dashboard). 
+projeto desenvolvido com o intuito de facilitar a interação entre streamer e o seu público. Para isso, o streamer cria uma sala, a qual compartilha o link com o espectadores, onde irão fazer cadastro e sair perguntando.
+
+Desenvolvido junto com Diego Fernandes na Next Level Week(NLW) da escola de programação [**Rocketseat**](https://app.rocketseat.com.br/dashboard). 
 
 ---
 ## Principais conceitos desenvolvidos
@@ -24,3 +25,4 @@ projeto desenvolvido na NLW, evento da maior e melhor escola de programação do
 - TypeScript
 - ReactJS
 - Sass
+- Firebase
